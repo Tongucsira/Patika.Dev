@@ -4,8 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="Grocery Store v1">
-      <change afterPath="$PROJECT_DIR$/src/TaxiFee.java" afterDir="false" />
+    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="Taxi Fee v1">
+      <change afterPath="$PROJECT_DIR$/src/AreaOfTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BMICalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculationsOfCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HypotenuseCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/VATCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677116801383</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Taxi Fee v1">
+      <created>1677117195727</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1677117195727</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -106,7 +118,8 @@
     <MESSAGE value="GPA Calculator v1" />
     <MESSAGE value="Calculator v1" />
     <MESSAGE value="Grocery Store v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Grocery Store v1" />
+    <MESSAGE value="Taxi Fee v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Taxi Fee v1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
