@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="User Login v1">
-      <change afterPath="$PROJECT_DIR$/src/ActivityAdvisor.java" afterDir="false" />
+    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="Body Mass">
+      <change afterPath="$PROJECT_DIR$/src/NumberSorting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/BMICalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BMICalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -34,13 +34,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "fileTemplates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -148,7 +148,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677119897477</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Activity Advisor v1">
+      <created>1677120490906</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1677120490906</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -164,7 +171,8 @@
     <MESSAGE value="Calculations of Circle v1" />
     <MESSAGE value="VAT Calculator v1" />
     <MESSAGE value="User Login v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="User Login v1" />
+    <MESSAGE value="Activity Advisor v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Activity Advisor v1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
