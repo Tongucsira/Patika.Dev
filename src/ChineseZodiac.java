@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * @author Tonguç Şira
  */
-public class ChineeseZodiac {
+public class ChineseZodiac {
 
     public static void myChineeseZodiacCalculator(){
 
