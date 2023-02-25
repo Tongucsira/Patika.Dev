@@ -67,11 +67,5 @@ public class PlaneTicketPrice {
         System.out.println("Ödemeniz Gereken Tutar = " + finalPrice);
     }
 
-    public static void main(String[] args) {
-        myPlaneTicketPriceCalculator();
 
-
-
-
-    }
 }

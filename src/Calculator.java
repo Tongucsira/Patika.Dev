@@ -5,11 +5,14 @@ import java.util.Scanner;
  */
 public class Calculator {
 
-    public static void myCalculator(){
+    public static void myCalculator() {
+
+        Scanner input = new Scanner(System.in);
+
+        // Kullanıcıdan iki sayı ve bir işlem seçeneği alıyoruz.
 
         int n1, n2, selection;
 
-        Scanner input = new Scanner(System.in);
         System.out.println("Birinci sayıyı giriniz: ");
         n1 = input.nextInt();
         System.out.println("İkinci sayıyı giriniz: ");
@@ -19,6 +22,8 @@ public class Calculator {
         System.out.println("1- Toplama\n2- Çıkarma\n3- Çarpma\n4- Bölme");
         System.out.print("Seçiminiz: ");
         selection = input.nextInt();
+
+        // Seçilen işlemi gerçekleştiriyoruz.
 
         System.out.println("Seçiminiz: ");
 
@@ -42,6 +47,8 @@ public class Calculator {
                         System.out.println("Bölme: " + (n1 / n2));
                 }
                 break;
+
+            // Geçersiz bir seçim yapıldığında kullanıcıyı uyarıyoruz.
 
             default:
                 System.out.println("Hatalı seçim! Lütfen geçerli bir seçim yapın.");

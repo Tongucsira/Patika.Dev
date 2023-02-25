@@ -5,7 +5,10 @@ import java.util.Scanner;
  */
 public class GroceryStore {
 
-    public static void myGroceryStore(){
+    public static void myGroceryStore() {
+
+        //Değişkenleri oluştur.
+
         Scanner input = new Scanner(System.in);
         double armutKgFiyat = 2.14;
         double elmaKgFiyat = 3.67;
@@ -13,6 +16,8 @@ public class GroceryStore {
         double muzKgFiyat = 0.95;
         double patlicanKgFiyat = 5.00;
         double toplamTutar = 0.0;
+
+        //Kullanıcıdan alınan değerleri değişkenlere ata.
 
         System.out.println("Manavdan aldığınız ürünleri ve kilogramlarını giriniz:");
         System.out.print("Armut (kg): ");
@@ -34,6 +39,8 @@ public class GroceryStore {
         System.out.print("Patlıcan (kg): ");
         double patlicanKg = input.nextDouble();
         toplamTutar += patlicanKg * patlicanKgFiyat;
+
+        //Sonuçları ekrana yazdır.
 
         System.out.printf("Toplam Tutar: %.2f TL", toplamTutar);
     }

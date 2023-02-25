@@ -5,26 +5,62 @@ import java.util.Scanner;
  */
 public class ChineseZodiac {
 
-    public static void myChineeseZodiacCalculator(){
+    public static void myChineeseZodiacCalculator() {
 
         Scanner input = new Scanner(System.in);
+
+        // Doğum yılını kullanıcıdan alıyoruz.
 
         System.out.print("Doğum yılınızı girin: ");
         int year = input.nextInt();
 
+        String zodiac = "Çin Zodyağı Burcunuz : ";
+
+        // Doğum yılına göre çin zodyağı burcunu buluyoruz.
+
+        String[] sign = {"Maymun", "Horoz", "Köpek", "Domuz", "Fare", "Öküz", "Kaplan", "Tavşan", "Ejderha", "Yılan", "At", "Koyun"};
+
+        // Burcunuzu ekrana yazdırıyoruz.
+
         switch (year % 12) {
-            case 0: System.out.println("Çin Zodyağı Burcunuz : Maymun"); break;
-            case 1: System.out.println("Çin Zodyağı Burcunuz : Horoz"); break;
-            case 2: System.out.println("Çin Zodyağı Burcunuz : Köpek"); break;
-            case 3: System.out.println("Çin Zodyağı Burcunuz : Domuz"); break;
-            case 4: System.out.println("Çin Zodyağı Burcunuz : Fare"); break;
-            case 5: System.out.println("Çin Zodyağı Burcunuz : Öküz"); break;
-            case 6: System.out.println("Çin Zodyağı Burcunuz : Kaplan"); break;
-            case 7: System.out.println("Çin Zodyağı Burcunuz : Tavşan"); break;
-            case 8: System.out.println("Çin Zodyağı Burcunuz : Ejderha"); break;
-            case 9: System.out.println("Çin Zodyağı Burcunuz : Yılan"); break;
-            case 10: System.out.println("Çin Zodyağı Burcunuz : At"); break;
-            case 11: System.out.println("Çin Zodyağı Burcunuz : Koyun"); break;
+            case 0:
+                System.out.println(zodiac + sign[0]);
+                break;
+            case 1:
+                System.out.println(zodiac + sign[1]);
+                break;
+            case 2:
+                System.out.println(zodiac + sign[2]);
+                break;
+            case 3:
+                System.out.println(zodiac + sign[3]);
+                break;
+            case 4:
+                System.out.println(zodiac + sign[4]);
+                break;
+            case 5:
+                System.out.println(zodiac + sign[5]);
+                break;
+            case 6:
+                System.out.println(zodiac + sign[6]);
+                break;
+            case 7:
+                System.out.println(zodiac + sign[7]);
+                break;
+            case 8:
+                System.out.println(zodiac + sign[8]);
+                break;
+            case 9:
+                System.out.println(zodiac + sign[9]);
+                break;
+            case 10:
+                System.out.println(zodiac + sign[10]);
+                break;
+            case 11:
+                System.out.println(zodiac + sign[11]);
+                break;
+
+
         }
     }
 }

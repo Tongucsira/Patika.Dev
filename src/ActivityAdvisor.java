@@ -5,13 +5,18 @@ import java.util.Scanner;
  */
 public class ActivityAdvisor {
 
-    public static void myActivityAdvisor(){
-        int temperature;
+    public static void myActivityAdvisor() {
 
         Scanner myscanner = new Scanner(System.in);
 
+        // Hava sıcaklığını kullanıcıdan alıyoruz.
+
+        int temperature;
+
         System.out.print("Hava sıcaklığını giriniz : ");
         temperature = myscanner.nextInt();
+
+        // Hava sıcaklığına göre eylem önerisi veriyoruz.
 
         if (temperature < 5) {
             System.out.println("Kayak yapabilirsiniz.");

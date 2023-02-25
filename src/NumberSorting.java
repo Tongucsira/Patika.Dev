@@ -5,12 +5,13 @@ import java.util.Scanner;
  */
 public class NumberSorting {
 
-
     public static void myNumberSorting() {
 
-        int a, b, c, temp;
-
         Scanner input = new Scanner(System.in);
+
+        // 3 tane sayı girilir ve küçükten büyüğe doğru sıralanır.
+
+        int a, b, c, temp;
 
         System.out.print("a değerini giriniz : ");
         a = input.nextInt();

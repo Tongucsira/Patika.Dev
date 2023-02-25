@@ -4,12 +4,15 @@ import java.util.Scanner;
  * @author Tonguç Şira
  */
 public class GPACalculator {
-    
+
     public static void myGPACalculator() {
+
         // Değişkenleri oluştur
+
         int mathematic, physics, chemistry, turkish, history, music;
 
         // Scanner sınıflarını tanımla
+
         Scanner inp = new Scanner(System.in);
 
         // Kulanıcıdan değerleri al
@@ -44,7 +47,7 @@ public class GPACalculator {
 
         String str = condition ? "Geçti" : "Kaldı";
         System.out.println(str);
-    
+
     }
-    
+
 }

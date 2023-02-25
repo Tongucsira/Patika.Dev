@@ -6,16 +6,22 @@ import java.util.Scanner;
 public class HypotenuseCalculator {
 
     public static void myHyptenuseCalculator() {
+
+        Scanner myScanner = new Scanner(System.in);
+
+        //Kullanıcıdan a ve b kenarlarını alıyoruz.
+
         int a, b, c;
-        Scanner inp =  new Scanner(System.in);
+
+        //Hipotenüsü hesaplamak için a ve b kenarlarının karesini alıyoruz.
 
         System.out.print("a kenarı değeri :");
-        a = inp.nextInt();
+        a = myScanner.nextInt();
 
         System.out.print("b kenarı değeri :");
-        b = inp.nextInt();
+        b = myScanner.nextInt();
 
-        c = ((a*a)+(b*b));
+        c = ((a * a) + (b * b));
         System.out.println("Hipotenüs : " + Math.sqrt(c));
     }
 }
