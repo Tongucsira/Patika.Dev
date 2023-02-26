@@ -4,24 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="Leap Year Calculator v1">
-      <change afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="Reformatted for better viewer experience">
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ActivityAdvisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ActivityAdvisor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/AreaOfTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/AreaOfTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/BMICalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BMICalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CalculationsOfCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/CalculationsOfCircle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Calculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ChineseZodiac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ChineseZodiac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GPACalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GPACalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/GroceryStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GroceryStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HypotenuseCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HypotenuseCalculator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LeapYear.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/LeapYear.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/NumberSorting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/NumberSorting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PlaneTicketPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlaneTicketPrice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TaxiFee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TaxiFee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/UserLogin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/UserLogin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ZodiacSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZodiacSign.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,7 +197,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677219519014</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Reformatted for better viewer experience">
+      <created>1677294730211</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1677294730211</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -233,7 +227,8 @@
     <MESSAGE value="Plane Ticket Price Calculator v1" />
     <MESSAGE value="Chinesse Zodiac Calculator v1" />
     <MESSAGE value="Leap Year Calculator v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leap Year Calculator v1" />
+    <MESSAGE value="Reformatted for better viewer experience" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reformatted for better viewer experience" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
