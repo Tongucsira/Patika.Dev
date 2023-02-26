@@ -14,7 +14,7 @@ public class EvenNumbersCalculator {
         do {
             System.out.print("Bir sayı girin: ");
             n = sc.nextInt();
-            if (n % 2 == 0 || n % 4 ==0) {
+            if (n % 4 ==0) {
                 total += n;
             }
         }
