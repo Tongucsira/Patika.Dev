@@ -10,12 +10,11 @@ public class EvenNumbersCalculator {
 
         int n;
         int total = 0;
-        int counter = 0;
 
         do {
             System.out.print("Bir sayı girin: ");
             n = sc.nextInt();
-            if (n % 2 == 0 && n % 4 ==0) {
+            if (n % 2 == 0 || n % 4 ==0) {
                 total += n;
             }
         }
