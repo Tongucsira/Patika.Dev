@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * @author Tonguç Şira
  */
-public class OddNumbersCalculator {
+public class EvenNumbersCalculator {
     public static void myOddCalculator() {
 
         Scanner sc = new Scanner(System.in);
