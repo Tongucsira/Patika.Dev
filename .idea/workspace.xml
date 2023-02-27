@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="Even Numbers Calculator v1">
-      <change afterPath="$PROJECT_DIR$/src/PowersOfFourAndFive.java" afterDir="false" />
+    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="PowersOfFourAndFive v1">
+      <change afterPath="$PROJECT_DIR$/src/CombinationCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FactorialCalculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PowersOfFourAndFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PowersOfFourAndFive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ZodiacSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZodiacSign.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -252,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677445024563</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="PowersOfFourAndFive v1">
+      <created>1677464354296</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1677464354296</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -279,7 +288,8 @@
     <MESSAGE value="Average Calculator v1" />
     <MESSAGE value="Odd Numbers Calculator v1" />
     <MESSAGE value="Even Numbers Calculator v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Even Numbers Calculator v1" />
+    <MESSAGE value="PowersOfFourAndFive v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="PowersOfFourAndFive v1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
