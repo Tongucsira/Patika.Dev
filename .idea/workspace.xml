@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="Upside Down Triangle v1">
-      <change afterPath="$PROJECT_DIR$/src/PrimeNumbers.java" afterDir="false" />
+    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="Prime Numbers v1">
+      <change afterPath="$PROJECT_DIR$/src/FibonacciSequence.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PowersOfFourAndFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PowersOfFourAndFive.java" afterDir="false" />
@@ -338,11 +338,24 @@
       <option name="project" value="LOCAL" />
       <updated>1677650291579</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Upside Down Triangle v1">
+      <created>1677650663121</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1677650663121</updated>
+    </task>
+    <task id="LOCAL-00039" summary="Prime Numbers v1">
+      <created>1677650747641</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1677650747641</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Calculations of Circle v1" />
     <MESSAGE value="VAT Calculator v1" />
     <MESSAGE value="User Login v1" />
     <MESSAGE value="Activity Advisor v1" />
@@ -367,7 +380,8 @@
     <MESSAGE value="FindBigAndSmall v1" />
     <MESSAGE value="Perfect Number v1" />
     <MESSAGE value="Upside Down Triangle v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Upside Down Triangle v1" />
+    <MESSAGE value="Prime Numbers v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Prime Numbers v1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
