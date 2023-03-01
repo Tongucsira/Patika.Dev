@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="GCM GCF Calculator v1">
+    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="FindBigAndSmall v1">
+      <change afterPath="$PROJECT_DIR$/src/PerfectNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PowersOfFourAndFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PowersOfFourAndFive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ZodiacSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZodiacSign.java" afterDir="false" />
@@ -315,11 +317,17 @@
       <option name="project" value="LOCAL" />
       <updated>1677648475694</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="FindBigAndSmall v1">
+      <created>1677649088615</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1677649088615</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Area of Triangle v1" />
     <MESSAGE value="Body-Mass Index v1" />
     <MESSAGE value="Hypotenuse Calculator v1" />
     <MESSAGE value="Calculations of Circle v1" />
@@ -344,7 +352,8 @@
     <MESSAGE value="Diamond v1" />
     <MESSAGE value="ATM Machine v1" />
     <MESSAGE value="GCM GCF Calculator v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="GCM GCF Calculator v1" />
+    <MESSAGE value="FindBigAndSmall v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="FindBigAndSmall v1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
