@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="Exercises for Patika.Dev Backend Training">
-      <change afterPath="$PROJECT_DIR$/src/HarmonicSeries.java" afterDir="false" />
+    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="Harmonic Series v1">
+      <change afterPath="$PROJECT_DIR$/src/Stars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PowersOfFourAndFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PowersOfFourAndFive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ZodiacSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZodiacSign.java" afterDir="false" />
@@ -281,11 +282,17 @@
       <option name="project" value="LOCAL" />
       <updated>1677623538321</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Harmonic Series v1">
+      <created>1677624219609</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1677624219609</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="GPA Calculator v1" />
     <MESSAGE value="Calculator v1" />
     <MESSAGE value="Grocery Store v1" />
     <MESSAGE value="Taxi Fee v1" />
@@ -310,7 +317,8 @@
     <MESSAGE value="Combination and Factorial Calculators v1" />
     <MESSAGE value="Power Calculator v1" />
     <MESSAGE value="Exercises for Patika.Dev Backend Training" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercises for Patika.Dev Backend Training" />
+    <MESSAGE value="Harmonic Series v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Harmonic Series v1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
