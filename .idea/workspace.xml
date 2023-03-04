@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="Prime Numbers v1">
-      <change afterPath="$PROJECT_DIR$/src/FibonacciSequence.java" afterDir="false" />
+    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="Fibonacci Sequence v1">
+      <change afterPath="$PROJECT_DIR$/src/Appendix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PalindromeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PowersOfFourAndFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PowersOfFourAndFive.java" afterDir="false" />
@@ -48,14 +50,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/tngc0/IntelliJ Projects/Deneme",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/tngc0/IntelliJ Projects/Deneme&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
@@ -352,11 +354,17 @@
       <option name="project" value="LOCAL" />
       <updated>1677650747641</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Fibonacci Sequence v1">
+      <created>1677651507505</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1677651507505</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="VAT Calculator v1" />
     <MESSAGE value="User Login v1" />
     <MESSAGE value="Activity Advisor v1" />
     <MESSAGE value="Body Mass" />
@@ -381,7 +389,8 @@
     <MESSAGE value="Perfect Number v1" />
     <MESSAGE value="Upside Down Triangle v1" />
     <MESSAGE value="Prime Numbers v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prime Numbers v1" />
+    <MESSAGE value="Fibonacci Sequence v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fibonacci Sequence v1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
