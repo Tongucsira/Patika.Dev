@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /**
  * @author Tonguç Şira
  */
@@ -11,13 +13,20 @@ public class PalindromeNumbers {
             reverse = reverse * 10 + lastDigit;
             temp /= 10;
         }
-        if (number == reverse)
+        if (number == reverse) {
+            System.out.println(number + " is a palindrome.");
             return true;
-        else
+        } else {
+            System.out.println(number + " is not a palindrome.");
             return false;
+        }
     }
-    public static void nmb() {
-        int number = 101;
+    public static void myPalindromeChecker() {
+
+        Scanner myScanner = new Scanner(System.in);
+
+        System.out.print("Enter a number to check if it is a palindrome: ");
+        int number = myScanner.nextInt();
         System.out.println(isPalindrome(number));
     }
 }
