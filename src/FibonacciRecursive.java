@@ -12,10 +12,10 @@ public class FibonacciRecursive {
         int n = myScanner.nextInt();
 
 
-        CalculateFibonacciWithRecursiveAndPrint(n);
+        fib(n);
     }
 
-    static void CalculateFibonacciWithRecursiveAndPrint(int n) {
+    static void fib(int n) {
         for (int i = 1; i <= n; i++) {
             System.out.print(fibonacci(i) + " ");
         }
