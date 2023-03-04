@@ -6,9 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="Palindrome Numbers v1">
       <change afterPath="$PROJECT_DIR$/src/Appendix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FibonacciRecursive.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PalindromeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PalindromeNumbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/PowersOfFourAndFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PowersOfFourAndFive.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ZodiacSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZodiacSign.java" afterDir="false" />
     </list>
@@ -367,7 +368,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677906270019</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Palindrome Numbers v1">
+      <created>1677906598310</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1677906598310</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
