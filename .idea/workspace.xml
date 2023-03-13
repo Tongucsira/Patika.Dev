@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="Advanced Calculator v1">
+    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="Recursive Prime Checker v1">
       <change afterPath="$PROJECT_DIR$/src/Appendix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExercisePattern.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/RecursivePower.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursivePrime.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
@@ -397,11 +397,17 @@
       <option name="project" value="LOCAL" />
       <updated>1678464363883</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Recursive Prime Checker v1">
+      <created>1678716719121</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1678716719121</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Number Sorting" />
     <MESSAGE value="Zodiac Sign v1" />
     <MESSAGE value="Plane Ticket Price Calculator v1" />
     <MESSAGE value="Chinesse Zodiac Calculator v1" />
@@ -426,7 +432,8 @@
     <MESSAGE value="Palindrome Numbers v1" />
     <MESSAGE value="Calculate Fibonacci with Recursive Methods v1" />
     <MESSAGE value="Advanced Calculator v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Advanced Calculator v1" />
+    <MESSAGE value="Recursive Prime Checker v1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recursive Prime Checker v1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
