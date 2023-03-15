@@ -20,6 +20,7 @@ public class ZodiacSign {
         month = input.nextInt();
 
         // Convert month number to month name
+
         String monthName;
         switch (month) {
             case 1:
