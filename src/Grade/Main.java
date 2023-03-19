@@ -3,10 +3,10 @@ package Grade;
 /**
  * @author Tonguç Şira
  */
-public class GradeMain {
+public class Main {
 
 
-    public static void GradeMain() {
+    public static void Main() {
         Teacher t1 = new Teacher("Mahmut Hoca", "TRH", "0555 555 55 55");
         Teacher t2 = new Teacher("Ahmet Hoca", "FZK", "0555 555 55 54");
         Teacher t3 = new Teacher("Külyutmaz", "BIO", "0555 555 55 53");

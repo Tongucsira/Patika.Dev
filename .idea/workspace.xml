@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="Exercise Pattern v1">
+    <list default="true" id="41288033-b178-4acf-8241-5450e03d2474" name="Changes" comment="Grade System">
       <change afterPath="$PROJECT_DIR$/src/Appendix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RecursivePower.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PowersOfFourAndFive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PowersOfFourAndFive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ZodiacSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ZodiacSign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PlaneTicketPrice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PlaneTicketPrice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,20 +78,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1677080856434</updated>
-    </task>
-    <task id="LOCAL-00001" summary="Calculator">
-      <created>1677115025762</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1677115025762</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Calculator-v1">
-      <created>1677115149965</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1677115149965</updated>
     </task>
     <task id="LOCAL-00003" summary="GPA Calculator v1">
       <created>1677116452427</created>
@@ -410,13 +394,38 @@
       <option name="project" value="LOCAL" />
       <updated>1678718443217</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Recursive Power v1">
+      <created>1678886151013</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1678886151014</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Revised v1">
+      <created>1678894707524</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1678894707524</updated>
+    </task>
+    <task id="LOCAL-00050" summary="Revised v1">
+      <created>1678894750680</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1678894750681</updated>
+    </task>
+    <task id="LOCAL-00051" summary="Grade System">
+      <created>1679269126179</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1679269126180</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Plane Ticket Price Calculator v1" />
-    <MESSAGE value="Chinesse Zodiac Calculator v1" />
-    <MESSAGE value="Leap Year Calculator v1" />
     <MESSAGE value="Reformatted for better viewer experience" />
     <MESSAGE value="Average Calculator v1" />
     <MESSAGE value="Odd Numbers Calculator v1" />
@@ -439,7 +448,10 @@
     <MESSAGE value="Advanced Calculator v1" />
     <MESSAGE value="Recursive Prime Checker v1" />
     <MESSAGE value="Exercise Pattern v1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Exercise Pattern v1" />
+    <MESSAGE value="Recursive Power v1" />
+    <MESSAGE value="Revised v1" />
+    <MESSAGE value="Grade System" />
+    <option name="LAST_COMMIT_MESSAGE" value="Grade System" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
