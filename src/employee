@@ -1,0 +1,65 @@
+public class employee {
+    String name;
+    double salary;
+    int workHours;
+    int hireYear;
+
+    // Constructor
+    public employee(String name, double salary, int workHours, int hireYear) {
+        this.name = name;
+        this.salary = salary;
+        this.workHours = workHours;
+        this.hireYear = hireYear;
+    }
+
+    // Method to calculate tax
+    public double tax() {
+        if (this.salary > 1000) {
+            return this.salary * 0.03; // 3% tax
+        }
+        return 0.0;
+    }
+
+    // Method to calculate bonus
+    public double bonus() {
+        if (this.workHours > 40) {
+            return (this.workHours - 40) * 30; // 30 currency units for each extra hour
+        }
+        return 0.0;
+    }
+
+    // Method to calculate salary raise
+    public double raiseSalary() {
+        int currentYear = 2021; // Fixed year as requested
+        int yearsWorked = currentYear - this.hireYear;
+
+        if (yearsWorked < 10) {
+            return this.salary * 0.05; // 5% raise
+        } else if (yearsWorked >= 10 && yearsWorked < 20) {
+            return this.salary * 0.10; // 10% raise
+        } else {
+            return this.salary * 0.15; // 15% raise
+        }
+    }
+
+    // Method to print employee details (toString method)
+    @Override
+    public String toString() {
+        double tax = tax();  // Calculate tax
+        double bonus = bonus();  // Calculate bonus
+        double raise = raiseSalary();  // Calculate salary raise
+        double salaryWithTaxAndBonus = this.salary - tax + bonus;  // Salary after tax and bonus
+        double totalSalary = this.salary + raise + bonus - tax;  // Total salary with raise and bonus, minus tax
+
+        return "Name: " + this.name + "\n" +
+                "Salary: " + this.salary + "\n" +
+                "Work Hours: " + this.workHours + "\n" +
+                "Hire Year: " + this.hireYear + "\n" +
+                "Tax: " + tax + "\n" +
+                "Bonus: " + bonus + "\n" +
+                "Salary Raise: " + raise + "\n" +
+                "Salary with Tax and Bonuses: " + salaryWithTaxAndBonus + "\n" +
+                "Total Salary: " + totalSalary;
+    }
+
+}
